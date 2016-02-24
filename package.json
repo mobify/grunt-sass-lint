@@ -24,7 +24,7 @@
     "lint"
   ],
   "dependencies": {
-    "sass-lint": "git+https://github.com/marlowpayne/sass-lint.git#toggle-rules-in-src"
+    "sass-lint": "git+https://github.com/marlowpayne/sass-lint.git#hack-together"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
